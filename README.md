@@ -2,12 +2,50 @@
 
 ## 개인 앱 개발 (2018 ~ 2019년)
 
+---
+
 ## 회사 프로젝트 - 여행사람 안드로이드 앱 개발 (2017년)
+- [경력기술서 상세보기](https://github.com/jackPark86/Employment-Highlight/blob/master/README.md)
+### 프로젝트(Project)
+- 개요 : 소셜네트워킹을 기반으로 여행자들이 동행 찾기 및 여행 일정과 실시간 후기 등을 공유하는 소셜 여행 플랫폼
+- 사용 언어 : Java, Kotlin, PHP, HTML, CSS, MySQL
+- 플랫폼 : Android, Firebase, AWS(EC2), SendBird
+- 개발 도구 : Android Studio, Atom, Sublime Text
+- 담당 업무 : 기획, 개발(클라이언트 + 서버) 및 유지보수(1인 개발)
+### 주요화면(Important Screen)
+| 게시물작성 | 여행일정등록(채팅방생성) | 채팅 | 훑어보기 |
+| ----- | ---- | ----- | ---- |
+|![여행사람 글쓰기](https://github.com/jackPark86/Employment-Highlight/blob/master/images/01_feed_write.gif)| ![여행사람 여행일정 등록](https://github.com/jackPark86/Employment-Highlight/blob/master/images/02_create_chat.gif) |![여행사람 채팅](https://github.com/jackPark86/Employment-Highlight/blob/master/images/03_chating.gif)| ![여행사람 전체보기](https://github.com/jackPark86/Employment-Highlight/blob/master/images/04_comment.gif) |
+
+| 로그인화면 | 회원가입화면 | 게시물목록화면 | 여행일정화면 |
+| ----- | ---- | ----- | ---- |
+| ![로그인화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/01_login.png) | ![회원가입화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/02_signup.png) | ![게시물화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/03_feed.png) | ![여행일정화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/04_list.png) |
+
+| 채팅방목록화면 | 알림목록화면 | 마이페이지화면 | 설정화면 |
+| ----- | ---- | ----- | ---- |
+| ![채팅방목록화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/05_chat.png) | ![알림목록화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/06_notice.png) | ![마이페이지화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/07_mypage.png) | ![설정화면](https://github.com/jackPark86/Employment-Highlight/blob/master/images/08_setting.png) |
+
+---
 
 ## 교육원 졸업 작품 - 개인 앱 (2016년)
+### 프로젝트(Project)
+- 개요 : 
+- 사용 언어 : 
+- 프레임워크 : 
+- 개발 도구 : 
+- 담당 업무 : 기획 및 개발(클라이언트 + 서버) (1인 개발)
+
+### 주요화면(Important Screen)
+| 인트로화면 | 미션목록화면  | 미션상세화면 | 상세댓글화면 |
+| ----- | ---- | ----- | ---- |
+| ![인트로화면](/images/2016_app_01.png) | ![미션목록](/images/2016_app_02.png) | ![미션상세](/images/2016_app_03.png) | ![미션상세댓글](/images/2016_app_04.png) |
+
+| 채팅방목록화면 | 알림목록화면 | 마이페이지화면 | 설정화면 |
+| ----- | ---- | ----- | ---- |
+| ![채팅방목록화면](/images/2016_app_05.png) | ![알림목록화면](/images/2016_app_06.png) | ![마이페이지화면](/images/2016_app_07.png) | ![설정화면](/images/2016_app_08.png) |
+---
 
 ## 교육원 팀 프로젝트 - 커뮤니티 웹 개발 (2016년)
----  
 ### 프로젝트(Project)
 - 개요 : 커뮤니티 사이트 구현을 통한 게시판 기본동작 원리 및 내부구조 파악
 - 사용 언어 : JAVA, JSP, HTML5, CSS3, JavaScript, jQuery, Ajax, Oracle 11g  
@@ -15,7 +53,6 @@
 - 개발 도구 : Eclipse, STS, Sql Developer
 - 담당 업무 : 데이타베이스 설계, 게시글 목록 구현, 관리자 페이지, 회원 및 게시글 관리
 
----  
 ### 주요화면(Important Screen)
 | 메인페이지 | 게시판목록 |
 | ----- |  ----- | 
