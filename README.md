@@ -1,5 +1,7 @@
 # 포트폴리오(Portfolio)
 ## 아이코인넷 (2020.11 ~  )
+
+### 프로젝트(Project)
 - [안드로이드 뷰티포인트 앱 유지/보수 및 신규 서비스 개발](https://play.google.com/store/apps/details?id=com.amorepacific.handset)
 ---
 ## 개인 앱 개발 (2018 ~ 2019년)
