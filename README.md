@@ -5,6 +5,8 @@
 - [안드로이드 뷰티포인트 앱 유지/보수 및 신규 서비스 개발](https://play.google.com/store/apps/details?id=com.amorepacific.handset)
 ---
 ## 개인 앱 개발 및 운영 (2018 ~ 2020.10)
+- AppBrain Developer Summary
+![AppBrain](/images/20210905_app_ranking.png)
 
 ---
 
