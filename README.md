@@ -2,8 +2,8 @@
 ## 아이코인넷 (2020.11 ~  )
 
 ### 프로젝트(Project)
-- [뷰티포인트 안드로이드 앱 신규 서비스 개발 및 유지/보수](https://play.google.com/store/apps/details?id=com.amorepacific.handset)
-- KT Giga Genie API 개발 참여 (2021.09 ~ 12)
+- [뷰티포인트 안드로이드 앱 신규 서비스 개발 및 유지/보수(20.11 ~ )](https://play.google.com/store/apps/details?id=com.amorepacific.handset)
+- KT Giga Genie API 개발 참여 (21.09 ~ 12)
 
 ---
 ## 개인 앱 개발 및 운영 (2018 ~ 2020.10)
