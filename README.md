@@ -3,7 +3,7 @@
 
 ### 프로젝트(Project)
 - [뷰티포인트 안드로이드 앱 신규 서비스 개발 및 유지/보수](https://play.google.com/store/apps/details?id=com.amorepacific.handset)
----
+   - 경력기술서 상세보기
 - KT Giga Genie API 개발 참여 (21.09 ~ 12)
 
 ---
