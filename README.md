@@ -7,7 +7,7 @@
 
 ---
 ## 개인 앱 개발 및 운영 (2018 ~ 2020.10)
-- AppBrain Developer Summary
+- [AppBrain Developer Summary](https://www.appbrain.com/dev/86GRAM/)
 ![AppBrain](/images/20210905_app_ranking.png)
 
 ---
