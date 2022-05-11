@@ -24,15 +24,15 @@
 ### 주요화면(Important Screen)
 | 게시물작성 | 여행일정등록(채팅방생성) | 채팅 | 훑어보기 |
 | ----- | ---- | ----- | ---- |
-|![여행사람 글쓰기](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/01_feed_write.gif)| ![여행사람 여행일정 등록](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/02_create_chat.gif) |![여행사람 채팅](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/03_chating.gif)| ![여행사람 전체보기](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/04_comment.gif) |
+|![여행사람 글쓰기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/01_feed_write.gif)| ![여행사람 여행일정 등록](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/02_create_chat.gif) |![여행사람 채팅](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/03_chating.gif)| ![여행사람 전체보기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/04_comment.gif) |
 
 | 로그인화면 | 회원가입화면 | 게시물목록화면 | 여행일정화면 |
 | ----- | ---- | ----- | ---- |
-| ![로그인화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/01_login.png) | ![회원가입화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/02_signup.png) | ![게시물화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/03_feed.png) | ![여행일정화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/04_list.png) |
+| ![로그인화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/01_login.png) | ![회원가입화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/02_signup.png) | ![게시물화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/03_feed.png) | ![여행일정화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/04_list.png) |
 
 | 채팅방목록화면 | 알림목록화면 | 마이페이지화면 | 설정화면 |
 | ----- | ---- | ----- | ---- |
-| ![채팅방목록화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/05_chat.png) | ![알림목록화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/06_notice.png) | ![마이페이지화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/07_mypage.png) | ![설정화면](https://github.com/DevPark0422/Employment-Highlight/blob/master/images/08_setting.png) |
+| ![채팅방목록화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/05_chat.png) | ![알림목록화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/06_notice.png) | ![마이페이지화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/07_mypage.png) | ![설정화면](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/08_setting.png) |
 
 ---
 
