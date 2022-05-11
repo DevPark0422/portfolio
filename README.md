@@ -14,7 +14,7 @@
 ---
 
 ## 여행사람 안드로이드 앱 개발 (2017년)
-- [경력기술서 상세보기](https://github.com/DevPark0422/Employment-Highlight/blob/master/README.md)
+- [직무기술서 상세보기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/README.md)
 ### 프로젝트(Project)
 - 개요 : 소셜네트워킹을 기반으로 여행자들이 동행 찾기 및 여행 일정과 실시간 후기 등을 공유하는 소셜 여행 플랫폼
 - 사용 언어 : Java, Kotlin, PHP, HTML, CSS, MySQL
