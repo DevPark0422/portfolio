@@ -22,9 +22,9 @@
 - 개발 도구 : Android Studio, Atom, Sublime Text3
 - 담당 업무 : 기획, 개발(클라이언트 + 서버) 및 유지보수(1인 개발)
 ### 주요화면(Important Screen)
-| 게시물작성 | 여행일정등록(채팅방생성) | 채팅 | 훑어보기 |
+<!--| 게시물작성 | 여행일정등록(채팅방생성) | 채팅 | 훑어보기 |
 | ----- | ---- | ----- | ---- |
-|![여행사람 글쓰기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/01_feed_write.gif)| ![여행사람 여행일정 등록](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/02_create_chat.gif) |![여행사람 채팅](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/03_chating.gif)| ![여행사람 전체보기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/04_comment.gif) |
+|![여행사람 글쓰기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/01_feed_write.gif)| ![여행사람 여행일정 등록](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/02_create_chat.gif) |![여행사람 채팅](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/03_chating.gif)| ![여행사람 전체보기](https://github.com/DevPark0422/career-description-travelzoo/blob/main/images/04_comment.gif) | -->
 
 | 로그인화면 | 회원가입화면 | 게시물목록화면 | 여행일정화면 |
 | ----- | ---- | ----- | ---- |
