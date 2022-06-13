@@ -2,9 +2,9 @@
 ## 아이코인넷 (2020.11 ~  )
 
 ### 프로젝트(Project)
-- 뷰티포인트 안드로이드 앱 신규 서비스 개발 및 유지/보수
+- 뷰티포인트 AOS 앱 신규 서비스 개발 및 유지/보수
    - [직무기술서 상세보기](https://github.com/DevPark0422/career-description-beautypoint/blob/main/README.md)
-- 삼성 웰스토리+ 안드로이드 앱 유지/보수 (22.05 ~ )
+- 삼성 웰스토리+ AOS 앱 bug fix 및 기능 개선 (22.05 ~ 07)
 - KT Giga Genie API 개발 참여 (21.09 ~ 12)
 
 ---
