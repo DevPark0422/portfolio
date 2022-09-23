@@ -3,9 +3,9 @@
 
 ### 프로젝트(Project)
 - 삼성 웰스토리+ AOS 앱 개발 및 유지/보수 (22.05 ~ )
-- 뷰티포인트 AOS 앱 개발 및 유지/보수 (20.11 ~ 22.07)
-   - [직무기술서 상세보기](https://github.com/DevPark0422/career-description-beautypoint/blob/main/README.md)
 - KT Giga Genie API 개발 참여 (21.09 ~ 12)
+- 뷰티포인트 AOS 앱 개발 및 유지/보수 (20.11 ~ 22.08)
+   - [직무기술서 상세보기](https://github.com/DevPark0422/career-description-beautypoint/blob/main/README.md)
 
 ---
 ## 개인 앱 개발 및 운영 (2018 ~ 2020.10)
