@@ -8,7 +8,7 @@
    - [직무기술서 상세보기](https://github.com/DevPark0422/career-description-beautypoint/blob/main/README.md)
    
 ### 개인 프로젝트(Project)
-- iOS 개인 앱 개발 
+- [iOS 개인 앱 개발](https://apps.apple.com/kr/developer/hyunho-park/id1585073199) 
 
 ---
 ## 개인 앱 개발 및 운영 (2018 ~ 2020.10)
